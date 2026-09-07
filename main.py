@@ -1,1 +1,2 @@
-
+print('piska')
+print('siska')
